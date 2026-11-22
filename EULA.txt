@@ -1,0 +1,89 @@
+FINRISE PDF TOOLBOX - END USER LICENCE AGREEMENT
+
+Please read this agreement before installing. By installing or using FinRise PDF
+Toolbox ("the Software") you agree to it. If you do not agree, do not install or
+use the Software.
+
+1. WHO THIS AGREEMENT IS WITH
+   The Software is licensed, not sold, to you by Devendra Choudhary ("the
+   Licensor"). Contact: hr@finriseadvisors.com.
+
+2. ACCESS AND LICENCE KEYS
+   2.1 The Software is currently provided by invitation only. To use it you need a
+       licence key issued by the Licensor.
+   2.2 Your key gives you a personal, non-exclusive, non-transferable right to
+       install and use the Software for your own work, on the number of computers
+       stated with your key (one, unless stated otherwise), for the period stated
+       with your key (for example lifetime, subscription or trial).
+   2.3 Keep your key confidential. Do not share, publish, sell or transfer it. A
+       key may be tied to one computer.
+   2.4 The Licensor may cancel a key that is shared, leaked, refunded or used in
+       breach of this agreement. A cancelled key stops working when the Software
+       next checks for updates.
+   2.5 Trial and subscription keys stop working at the end of their period unless
+       renewed.
+
+3. WHAT YOU MAY NOT DO
+   Except where the law or a licence in section 6 allows it, you may not copy,
+   resell, rent, sublicense or distribute the Software or your key; remove or
+   bypass the licence check; or misrepresent the Software as your own.
+
+4. YOUR DOCUMENTS STAY ON YOUR COMPUTER
+   The Software processes your files on your own computer. It does not upload your
+   documents or their contents anywhere.
+
+5. INTERNET CHECKS AND UPDATES
+   5.1 The Software connects to the internet to download a small update file that
+       tells it about new versions and cancelled keys. Nothing about your documents
+       is sent. See the Privacy Policy (PRIVACY.md) for details.
+   5.2 The Software must complete this check at least once every 14 days (or
+       another period set by the Licensor). If it cannot, it will ask you to
+       connect before continuing.
+   5.3 Updates may be optional or mandatory. When an update is mandatory, older
+       versions stop working until the update is installed. Updates install
+       automatically when you choose "Update now" and keep your settings and key.
+
+6. OPEN-SOURCE COMPONENTS
+   The Software includes third-party open-source components, including MuPDF
+   (GNU AGPL v3) and Tesseract OCR with its libraries (Apache 2.0, LGPL, GPL and
+   other licences), listed in THIRD-PARTY-NOTICES.md. Those components are
+   licensed to you under their own licences, not under this agreement, and nothing
+   in this agreement limits your rights under those licences. Their source code is
+   published with every release of the Software.
+
+7. CHECK YOUR RESULTS - NO WARRANTY
+   7.1 Converting, compressing, recognising (OCR) or editing PDF files can change
+       layout, numbers or text. You are responsible for checking every output
+       before relying on it, filing it or sending it to anyone, and for keeping
+       copies of your original files.
+   7.2 THE SOFTWARE IS PROVIDED "AS IS" AND "AS AVAILABLE", WITHOUT WARRANTY OF ANY
+       KIND, EXPRESS OR IMPLIED, INCLUDING ANY WARRANTY OF ACCURACY,
+       MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE OR NON-INFRINGEMENT, TO
+       THE FULLEST EXTENT PERMITTED BY LAW.
+
+8. LIMITATION OF LIABILITY
+   8.1 To the fullest extent permitted by law, the Licensor is not liable for any
+       indirect, incidental, special or consequential loss, or for loss of data,
+       profits, business, goodwill or penalties, arising from use of or inability
+       to use the Software, even if advised of the possibility.
+   8.2 The Licensor's total liability under this agreement is limited to the
+       amount you paid for your licence in the 12 months before the claim, or
+       INR 1,000 if you paid nothing.
+   8.3 Nothing in this agreement excludes liability that cannot be excluded by law.
+
+9. ENDING THIS AGREEMENT
+   This agreement lasts until your key expires or is cancelled, or until you stop
+   using the Software and delete it. If you breach this agreement your right to
+   use the Software ends. Sections 6 to 10 continue after it ends.
+
+10. GENERAL
+   10.1 This agreement is governed by the laws of India. Disputes are subject to
+        the courts of competent jurisdiction in India.
+   10.2 The Licensor may update this agreement; the current version ships with
+        each release. Continued use after an update means you accept it.
+   10.3 If any part of this agreement is unenforceable, the rest remains in force.
+   10.4 Microsoft, Word, Excel, PowerPoint and Windows are trademarks of Microsoft
+        Corporation. PDF is a trademark of Adobe. The Software is not affiliated
+        with or endorsed by them.
+
+Version 1.0 - November 2026
