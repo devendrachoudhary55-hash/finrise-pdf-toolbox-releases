@@ -9,6 +9,8 @@ licence key, which invited users receive by email.
 
 * Latest installer: see [Releases](../../releases/latest)
 * Installed copies update themselves from this page.
+* [Licence agreement (EULA)](EULA.txt) - shown during installation
+* [Privacy policy](PRIVACY.md) - your documents never leave your computer
 
 ## Open-source components
 
